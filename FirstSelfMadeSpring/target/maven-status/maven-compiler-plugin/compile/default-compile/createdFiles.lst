@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\model\Product.class
+com\example\demo\service\ProductService.class
+com\example\demo\api\ProductController.class
+com\example\demo\dao\ProductDao.class
